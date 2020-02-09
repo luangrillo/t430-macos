@@ -2,7 +2,6 @@
 This is the most perfect folder for macOS startup using Lenovo T430<br/>
 Hardware settings testings:<br/>
 <br/>
-```
 	Modded Lenovo T430:
 i7 3610qm 3.3GHZ 
 Intel HD Graphics 4000, with 2048mb video.
@@ -10,8 +9,8 @@ Intel HD Graphics 4000, with 2048mb video.
 SSD Kingston UV400 120GB && mSata 512gb
 External card graphics: AMD XFX RX 570 4gb
 
+	What works:<br/>
 ```
-What works:<br/>
 Full cpu management.<br/>
 WLAN Realtek RTL8188EU USB<br/>
 Intel LAN 82579LM<br/>
@@ -24,16 +23,15 @@ Speakers.<br/>
 All ports USB 2.0 w/ 3.0<br/>
 m-Displayport works fine!<br/>
 ```
-Not work:<br/>
-Integrated microphone<br/>
-VGA Output<br/>
-Wlan Intel 5150<br/>
+	Not work:
+```
+Integrated microphone
+VGA Output
+Wlan Intel 5150
 Only this!
 ```
 &nbsp;
 
 <br/>
-Copy all files for EFI partition, reboot, and..
+Copy all files for EFI partition, reboot, and..<br/>
 Be happy!
-
-
