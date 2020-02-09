@@ -11,9 +11,8 @@ SSD Kingston UV400 120GB && mSata 512gb
 External card graphics: AMD XFX RX 570 4gb
 ```
 &nbsp;
-
-
-	What works:<br/>
+<br/>
+	What works:
 ```
 Full cpu management.
 WLAN Realtek RTL8188EU USB
