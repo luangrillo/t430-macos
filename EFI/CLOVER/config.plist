@@ -638,32 +638,63 @@
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
 		<key>MLB</key>
-		<string>C02032109R5DC771H</string>
+		<string>C02032109E2DC771H</string>
 		<key>ROM</key>
 		<string>UseMacAddr0</string>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
+		<key>BiosReleaseDate</key>
+		<string>12/18/2019</string>
+		<key>BiosVendor</key>
+		<string>Apple Inc.</string>
+		<key>BiosVersion</key>
+		<string>MBP91.88Z.F000.B00.1912231730</string>
+		<key>Board-ID</key>
+		<string>Mac-4B7AC7E43945597E</string>
+		<key>BoardManufacturer</key>
+		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>FVF940500CD00008C</string>
-		<key>Memory</key>
-		<dict>
-			<key>Channels</key>
-			<integer>0</integer>
-			<key>SlotCount</key>
-			<integer>2</integer>
-		</dict>
-		<key>ProductName</key>
-		<string>MacBookPro9,2</string>
-		<key>SerialNumber</key>
-		<string>FVFZHZZTL40Y</string>
-		<key>Trust</key>
+		<string>C023343244NF3271H</string>
+		<key>BoardType</key>
+		<integer>10</integer>
+		<key>BoardVersion</key>
+		<string>1.0</string>
+		<key>ChassisAssetTag</key>
+		<string>MacBook-Aluminum</string>
+		<key>ChassisManufacturer</key>
+		<string>Apple Inc.</string>
+		<key>ChassisType</key>
+		<string>0x0A</string>
+		<key>EfiVersion</key>
+		<string>230.0.0.0.0</string>
+		<key>Family</key>
+		<string>MacBook Pro</string>
+		<key>FirmwareFeatures</key>
+		<string>0xC00DE137</string>
+		<key>FirmwareFeaturesMask</key>
+		<string>0xFF1FFF3F</string>
+		<key>LocationInChassis</key>
+		<string>Part Component</string>
+		<key>Manufacturer</key>
+		<string>Apple Inc.</string>
+		<key>Mobile</key>
 		<true/>
+		<key>PlatformFeature</key>
+		<string>0xFFFF</string>
+		<key>ProductName</key>
+		<string>MacBookPro9,1</string>
+		<key>SerialNumber</key>
+		<string>C02L42Y341G3</string>
+		<key>SmUUID</key>
+		<string>09409924-8865-4AB8-B434-0A9607E93F15</string>
+		<key>Version</key>
+		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>CustomUUID</key>
-		<string>276EB477-759A-2650-928E-3E6AA4BAC816</string>
+		<string>EC76C1D5-F524-4661-AC39-CFC20C72A2DF</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 	</dict>
