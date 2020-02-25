@@ -10,7 +10,6 @@ Intel HD Graphics 4000, with 2048mb video.
 SSD Kingston UV400 120GB && mSata 512gb
 External card graphics: AMD XFX RX 570 4gb
 ```
-Note: No have adicional configs on efi folder for works eGPU, drivers are loaded natively by the system on compatible video cards. Don't worry, HD Graphics works well without, along with mDP output on +1080 @ 60hz.
 &nbsp;
 <br/>
 	What works:
