@@ -1,6 +1,6 @@
 # t430-macos
 This is the most perfect folder for macOS startup using Lenovo T430<br/>
-<p align="center"><img src="https://i.imgur.com/o6pQLq6.png" /></p>
+<img src="https://i.imgur.com/o6pQLq6.png" /><br/>
 Hardware settings testings:<br/>
 <br/>
 	Modded Lenovo T430:<br/>
