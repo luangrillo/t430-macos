@@ -25,6 +25,7 @@ Bluetooth 4.0
 Speakers.
 All ports USB 2.0 w/ 3.0
 m-Displayport works fine!
+Integrated microphone
 ```
 &nbsp;
 
@@ -32,9 +33,8 @@ m-Displayport works fine!
 	Not work:
 
 ```
-Integrated microphone
 VGA Output
-Wlan Intel 5150
+Wlan WIRELESS Intel 5150
 Only this!
 ```
 &nbsp;
