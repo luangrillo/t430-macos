@@ -1,5 +1,6 @@
 # t430-macos
 This is the most perfect folder for macOS startup using Lenovo T430<br/>
+<p align="center"><img src="https://i.imgur.com/o6pQLq6.png" /></p>
 Hardware settings testings:<br/>
 <br/>
 	Modded Lenovo T430:<br/>
@@ -26,6 +27,7 @@ Speakers.
 All ports USB 2.0 w/ 3.0
 m-Displayport works fine!
 Integrated microphone
+SSD Trim on
 ```
 &nbsp;
 
